@@ -92,6 +92,7 @@ A continuación, determinamos las características del proyecto:
 
 - Aplicar las operaciones CRUD en un segmento de datos.
 - Estructurar bajo un paradigma de programación (POO o PF).
+- Repasar lo aprendido con CSS, HTML y JavaScript.
 
 ****
 
@@ -126,19 +127,6 @@ Realizarse de manera individual
 ### ENTREGA A TIEMPO 10%
 - [ ] Entregar tu proyecto en el tiempo estipulado.
 
-****
-
-## 6. Criterios de evaluación
-
-A partir de los requisitos, tu % estará definido de esta forma:
-
-| ÁREA       | % DEL TOTAL |
-| ------------- |:-------------:|
-| UI      | 20%     |
-| JAVASCRIPT      | 40%     |
-| CONTROL DE VERSIONES      | 15%     |
-| DESPLIEGUE | 15%      |
-| ENTREGA A TIEMPO | 10%      |
 
 ****
 
@@ -146,4 +134,4 @@ A partir de los requisitos, tu % estará definido de esta forma:
 
 - **Definición de fechas.** Habla con tus coaches sobre el periodo de entregas del proyecto.
 
-- **Cumple con los requisitos y entregables.** En caso de que no logres cumplir con todos, se te asignará un progreso proporcional a lo que lograste. Lo importante es que entregues siempre tu proyecto.
+- **Cumple con los requisitos y entregables.** Debes verificar que cumplas con todo lo que listamos en esta sección y tomes en cuenta el tiempo establecido para ello, ya que de esto depende que obtengas tu insignia.
